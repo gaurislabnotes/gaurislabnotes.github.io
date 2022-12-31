@@ -5,6 +5,7 @@ module.exports = {
       options: {
         contentPath: `${__dirname}/content/garden`,
         rootNote: `/hello`,
+        pathPrefix: "/gaurislabnotes.github.io",
       },
     },
   ],
